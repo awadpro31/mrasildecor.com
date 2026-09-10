@@ -5,6 +5,11 @@
    than a bolted-on tool. Layout here (sidebar, tables, modals) is new.
    ========================================================================== */
 
+:root { 
+--charcoal: #121212; 
+--champagne: #e6c687; 
+--champagne-ink: #1a1a1a; 
+}
 body{ background:var(--charcoal); }
 
 /* ---- Demo banner ---- */
